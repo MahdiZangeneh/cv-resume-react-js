@@ -14,7 +14,6 @@ const Nav = (props) => {
     props.navItems.forEach((navItem) => {
       const navLink = document.querySelector(`#${navItem.id}`);
       navLink.addEventListener("click", (event) => {
-        // event.preventDefault();
         handleScrollAndClick(navItem.id);
       });
     });

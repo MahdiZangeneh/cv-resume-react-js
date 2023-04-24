@@ -1,9 +1,6 @@
 import React from "react";
 
 import classes from "./Aside.module.css";
-// import navClasses from "./Nav.module.css";
-
-// import Author from "../Author";
 import Copyright from "../Copyright/Copyright";
 import Nav from "../Nav/Nav";
 import Author from "../Author/Author";
