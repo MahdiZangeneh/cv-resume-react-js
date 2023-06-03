@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12221071.chunk.css",
+    "main.js": "/static/js/main.cfab0813.chunk.js",
+    "main.js.map": "/static/js/main.cfab0813.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5101ece7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5101ece7.js.map",
+    "static/js/2.787ca2e0.chunk.js": "/static/js/2.787ca2e0.chunk.js",
+    "static/js/2.787ca2e0.chunk.js.map": "/static/js/2.787ca2e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.12221071.chunk.css.map": "/static/css/main.12221071.chunk.css.map",
+    "static/js/2.787ca2e0.chunk.js.LICENSE.txt": "/static/js/2.787ca2e0.chunk.js.LICENSE.txt",
+    "static/media/Mahdi_Zangeneh_Resume.54221fdb.pdf": "/static/media/Mahdi_Zangeneh_Resume.54221fdb.pdf",
+    "static/media/author-big.bbf468a7.png": "/static/media/author-big.bbf468a7.png",
+    "static/media/author.368f9f51.png": "/static/media/author.368f9f51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5101ece7.js",
+    "static/js/2.787ca2e0.chunk.js",
+    "static/css/main.12221071.chunk.css",
+    "static/js/main.cfab0813.chunk.js"
+  ]
+}
