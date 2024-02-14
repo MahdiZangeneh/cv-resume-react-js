@@ -101,8 +101,13 @@
   text-decoration: none;
 }
 
+.content__box div a i {
+  color: #130f49;
+}
+
 .content__box div a span {
   margin-left: 2px;
+  color: #a5a6ff;
 }
 
 @media (max-width: 1040px) {
