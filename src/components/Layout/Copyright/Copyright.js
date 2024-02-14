@@ -14,7 +14,7 @@ const Copyright = () => {
           </li>
           <li>
             <a href="https://gitlab.com/">
-              <i className="fab fa-gitlab"></i>
+              <i className="fab fa-github"></i>
             </a>
           </li>
         </ul>

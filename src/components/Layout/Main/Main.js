@@ -7,6 +7,7 @@ import classes from "./Main.module.css";
 import Experience from "../../Section/Experience/Experience";
 import Skill from "../../Section/Skill/Skill";
 import Contact from "../../Section/Contact/Contact";
+import Project from "../../Section/Project/Project";
 
 const Main = (props) => {
   return (
@@ -17,6 +18,7 @@ const Main = (props) => {
             {navItem.id === "home" && <Home />}
             {navItem.id === "about" && <About />}
             {navItem.id === "experiences" && <Experience />}
+            {navItem.id === "projects" && <Project />}
             {navItem.id === "skills" && <Skill />}
             {navItem.id === "contact" && <Contact />}
           </Section>

@@ -161,7 +161,7 @@
   margin-top: 5px;
 }
 
-@media (max-width: 1600) {
+@media (max-width: 1600px) {
   .content {
     max-width: 1000px;
   }
@@ -183,13 +183,7 @@
   }
 }
 
-@media (max-width: 1040) {
-  .experience__title span {
-    margin-bottom: 5px;
-  }
-  .experience__title h3 {
-    font-size: 30px;
-  }
+@media (max-width: 1040px) {
 }
 
 @media (max-width: 768px) {
