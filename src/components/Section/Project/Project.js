@@ -3,6 +3,7 @@ import classes from "./Project.module.css";
 import Project1 from "./../../../assets/p1.jpg";
 import Project2 from "./../../../assets/p2.jpg";
 import Project3 from "./../../../assets/p3.jpg";
+import Project4 from "./../../../assets/p4.jpg";
 
 const projects = [
   {
@@ -16,6 +17,7 @@ const projects = [
     title: "Hotel Booking",
     stacks: [
       "ReactJs",
+      "NodeJs",
       "MongoDb",
       "TypeScript",
       "Tailwind Css",
@@ -25,6 +27,21 @@ const projects = [
     url: "https://mern-hotel-booking-2fk0.onrender.com/",
     github: "https://github.com/MahdiZangeneh/mern-hotel-booking",
     imgUrl: Project2,
+  },
+  {
+    title: "Food Order",
+    stacks: [
+      "ReactJs",
+      "NodeJs",
+      "MongoDb",
+      "TypeScript",
+      "Tailwind Css",
+      "React Query",
+      "Shadcn",
+    ],
+    url: "https://food-order-app-frontend.onrender.com/",
+    github: "https://github.com/MahdiZangeneh/food-order-app-frontend",
+    imgUrl: Project4,
   },
   {
     title: "Portfolio",

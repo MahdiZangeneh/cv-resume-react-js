@@ -31,6 +31,7 @@ const skills = [
       "TypeScript",
       "jQuery",
       "Typescript",
+      "Shadcn",
       "JSON",
       "REST API",
       "Html",
