@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../../UI/Button";
-import Resume from "../../../assets/Mahdi_Zangeneh_Resume.pdf";
+import Resume from "../../../assets/mahdi-zangeneh-fullstack.pdf";
 
 import classes from "./About.module.css";
 
@@ -31,7 +31,7 @@ const About = (props) => {
                 player with strong organizational skills.
               </p>
               <p>
-                With more than 4 years experience as a front-end and 2 years as
+                With more than 4 years experience as a front-end and 4 years as
                 a back-end developer, I have acquired the skills and knowledge
                 necessary to make your project a success. I enjoy every step of
                 coding and always eager to learn new things.
@@ -41,7 +41,7 @@ const About = (props) => {
               <ul>
                 <li>
                   <span>Age</span>
-                  <span>32</span>
+                  <span>34</span>
                 </li>
                 <li>
                   <span>Born In</span>

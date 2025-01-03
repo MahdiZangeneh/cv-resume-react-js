@@ -21,6 +21,7 @@ const skills = [
       "Axios",
       "Git",
       "Postman",
+      "PlayFab",
     ],
   },
   {
@@ -42,6 +43,8 @@ const skills = [
       "Styled-Component",
       "Bootstrap",
       "PWA",
+      "Construct 3",
+      "Gaming Engine",
     ],
   },
 ];

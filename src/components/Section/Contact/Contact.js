@@ -68,7 +68,7 @@ const Contact = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#contact">Selangor, Malaysia</a>
+                  <a href="#contact">Kuala Lumpur, Malaysia</a>
                 </li>
               </ul>
             </div>
