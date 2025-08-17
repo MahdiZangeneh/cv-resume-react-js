@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../../UI/Button";
-import Resume from "../../../assets/mahdi-zangeneh-fullstack.pdf";
+import Resume from "../../../assets/Mahdi-Zangeneh-Resume.pdf";
 import author from "../../../assets/author-big.png";
 
 import classes from "./Home.module.css";
@@ -28,7 +28,7 @@ const Home = (props) => {
                 I'm a full-stack developer living in Malaysia for now with
                 <span className={classes.details__subtitleBlue}>
                   {" "}
-                  8+ years{" "}
+                  10+ years{" "}
                 </span>
                 of experience.
               </p>

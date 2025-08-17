@@ -1,18 +1,18 @@
 import React from "react";
 import classes from "./Project.module.css";
-import Project1 from "./../../../assets/p1.jpg";
+// import Project1 from "./../../../assets/p1.jpg";
 import Project2 from "./../../../assets/p2.jpg";
 import Project3 from "./../../../assets/p3.jpg";
 import Project4 from "./../../../assets/p4.jpg";
 
 const projects = [
-  {
-    title: "Gaming Blog",
-    stacks: ["NextJs", "MongoDb", "TypeScript", "Tailwind Css"],
-    url: "https://next-blog-mu-mauve.vercel.app/",
-    github: "https://github.com/MahdiZangeneh/next-blog",
-    imgUrl: Project1,
-  },
+  // {
+  //   title: "Gaming Blog",
+  //   stacks: ["NextJs", "MongoDb", "TypeScript", "Tailwind Css"],
+  //   url: "https://next-blog-mu-mauve.vercel.app/",
+  //   github: "https://github.com/MahdiZangeneh/next-blog",
+  //   imgUrl: Project1,
+  // },
   {
     title: "Hotel Booking",
     stacks: [
@@ -76,7 +76,7 @@ const Project = () => {
                         <span>Source Code</span>
                       </a>
                       <a href={project.url} target="new">
-                        <i class="fas fa-link"></i>
+                        <i className="fas fa-link"></i>
                         <span>Visit Online</span>
                       </a>
                     </div>

@@ -106,7 +106,7 @@ const Contact = () => {
                   )}
                 </div>
 
-                <textarea defaultValue="Write something..."></textarea>
+                <textarea placeholder="Write something..."></textarea>
               </div>
               <Button disabled={!formIsValid} className={classes["button--lg"]}>
                 Submit now

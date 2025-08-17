@@ -15,6 +15,7 @@ const skills = [
       "Amazon Web Services",
       "Firestore",
       "Firebase",
+      "Google Cloud",
       "REST API",
       "JSON",
       "Agile Methodologies",
@@ -42,12 +43,14 @@ const skills = [
       "SCSS",
       "Styled-Component",
       "Bootstrap",
+      "Foundation",
       "PWA",
       "Construct 3",
       "Gaming Engine",
     ],
   },
 ];
+
 const Skill = () => {
   return (
     <div className={classes.skill}>
